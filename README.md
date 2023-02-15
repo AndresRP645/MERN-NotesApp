@@ -1,0 +1,1 @@
+A Notes App created with MERN Stack (Mongo, Express, React, Node.js)
